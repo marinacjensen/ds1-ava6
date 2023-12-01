@@ -1,4 +1,4 @@
-# DS1-ava6 - Trabalho sobre manipulação de APIs - REACTJS
+# DS1-ava6: Trabalho sobre manipulação de APIs - REACTJS
 
 ## Overview
 
